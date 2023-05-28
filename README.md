@@ -1,2 +1,2 @@
 # PAC_IRM
-code for PAC generalization via Invariant Representations
+Please run the Jupyter notebook provided. Dependencies are pandas, seaborn, matplotlib and numpy.
